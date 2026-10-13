@@ -21,8 +21,8 @@ Copilot usage at start of day (credits or percentage of budget, and where you re
 Models available in the picker and their price per million input and output tokens (GitHub models and pricing page): all except gpt 6.1, claude sonnet 5.5
 Context window indicator visible in chat (yes/no): yes
 Chat debug view available (yes/no): yes
-Session target and model per agent profile:
-Loaded agent files and actual tools: agent only currently
+Session target and model per agent profile: completed
+Loaded agent files and actual tools: completed
 MCP protocol route and observed call:
 Baseline command exit and counts:
 Browser observations: none

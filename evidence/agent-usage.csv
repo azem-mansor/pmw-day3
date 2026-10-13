@@ -1,1 +1,3 @@
 lab,work_item,role_pass,agent,model,billing,prompts,observed_usage,context_peak_pct,tool_calls,accepted,rework_cycles,notes
+1,LAB01_PLAN,build,pm-planner,GPT-5.6 Luna (copilot),not-observed,3,,22,9,yes,0,plan accepted after one 
+clarification
